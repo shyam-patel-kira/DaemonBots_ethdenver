@@ -22,6 +22,7 @@
     "fhenix-hardhat-docker": "^0.1.1",
     "fhenix-hardhat-plugin": "^0.1.1",
     "hardhat-gas-reporter": "^1.0.10",
+    "nft.storage": "^7.1.1",
     "solidity-coverage": "^0.8.10",
     "typechain": "^8.3.2"
   },
